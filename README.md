@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarvinPY
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning oop
+- 👀 I’m interested in programming and network
+- 🌱 I’m currently learning oop and network+
 - 📫 How to reach me : https://t.me/sarvin_hs
 
 <!---
