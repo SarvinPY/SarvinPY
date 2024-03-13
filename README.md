@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SarvinPY
-- 👀 I’m interested in programing
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning oop
 - 📫 How to reach me : https://t.me/sarvin_hs
 
