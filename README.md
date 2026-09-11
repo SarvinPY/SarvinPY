@@ -7,8 +7,11 @@
 </div>
 
 <br>
+<img width="163" height="150" alt="grass (2)" src="https://github.com/user-attachments/assets/90d12fa2-a7de-4940-89cf-833ef8f3e12a" />
+<svg viewBox="0 0 256 236" xmlns="http://www.w3.org/2000/svg" font-family="monospace" xmlns:c2pa="http://c2pa.org/manifest">
+<rect x="0" y="0" width="256" height="236" fill="#0D1117"/>
+</svg>
 
-<img width="139" height="150" alt="grass (1)" src="https://github.com/user-attachments/assets/1089ea47-7379-4f14-b46b-298cbc31c0c3" />
 
 
 <h2 align="center">⛏️ About Me</h2>
