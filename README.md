@@ -78,7 +78,6 @@
 <rect x="150" y="194" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
 <rect x="172" y="194" width="22" height="22" fill="#6E4423" stroke="#000000" stroke-width="2"/>
 <rect x="194" y="194" width="22" height="22" fill="#6E4423" stroke="#000000" stroke-width="2"/>
-<text x="128.0" y="251" font-size="16" fill="#c9d1d9" text-anchor="middle">Grass Block</text>
 </svg>
 ```yaml
 player:
