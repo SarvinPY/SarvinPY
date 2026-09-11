@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Minecraft&size=32&duration=3000&pause=800&color=55C500&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+Crafting+Table!;I'm+Sarvin+%F0%9F%8E%AE;Building+Worlds+with+Code" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="600">
+<img src="https://shields.io/blog/sunsetting-shields-custom-logos" width="600">
 
 </div>
 
@@ -28,22 +28,22 @@ player:
   name: Sarvin (SarvinPY)
   class: Computer Science Student
   spawn_point: University
-  current_quest: Digital Logic • Databases • Numerical Analysis
-  language: Persian (فارسی) / English
+  current_quest: ML • Network
+  language: Persian / English / Turkish
 ```
 
-- 🎮 I'm currently exploring **Digital Logic Circuits**, **Database Systems**, and **Numerical Analysis**
-- 🧱 I build things with **Python**, **C++**, **C#**, and **MySQL**
-- 🌱 Currently crafting projects like a scrolling LED matrix display and a cafe discovery app
+- 🎮 I'm currently exploring **ML**, **Back-End**, **Network**
+- 🧱 I build things with **Python**
+- 🌱 Currently crafting some projects
 - ⚡ Fun fact: I debug like I mine diamonds — patiently, and usually at 2 AM
 
 <br>
 
-<h2 align="center">🎒 Inventory (Tech Stack)</h2>
+<h2 align="center">My Skills</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,csharp,mysql,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github&theme=dark" />
 
 </div>
 
