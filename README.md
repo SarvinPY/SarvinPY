@@ -34,7 +34,9 @@ player:
 - 🌱 Currently crafting some projects
 - ⚡ Fun fact: I debug like I mine diamonds — patiently, and usually at 2 AM
 
-<br>
+<div align="center">
+<img align="center" width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/5a6c79a4-c9f6-49f5-8e8a-76b69a2f5050" />
+</div>
 
 <h2 align="center">My Skills</h2>
 
