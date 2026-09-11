@@ -88,18 +88,18 @@ player:
 
 <h2 align="center">🌐 Connect With Me</h2>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10mm; flex-wrap: wrap;">
+<div align="center";">
 
   <a href="https://t.me/sarvin_hs">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="margin: 0 20px />
   </a>
 
   <a href="https://linkedin.com/in/sarvin-hosseini-b5b002396">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 0 20px />
   </a>
 
   <a href="https://github.com/SarvinPY">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="margin: 0 20px />
   </a>
 
 </div>
