@@ -1,16 +1,109 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SarvinPY/SarvinPY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Minecraft&size=32&duration=3000&pause=800&color=55C500&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+Crafting+Table!;I'm+Sarvin+%F0%9F%8E%AE;Building+Worlds+with+Code" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="600">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+```
+
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛
+⬛🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜🟩⬛
+⬛🟩⬜🟫🟫⬜⬜⬜⬜🟫🟫⬜🟩⬛
+⬛🟩⬜🟫🟫⬜⬜⬜⬜🟫🟫⬜🟩⬛
+⬛🟩⬜⬜⬜⬜🟧🟧⬜⬜⬜⬜🟩⬛
+⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+
+```
+
+<h2 align="center">⛏️ About Me</h2>
+
+```yaml
+player:
+  name: Sarvin (SarvinPY)
+  class: Computer Science Student
+  spawn_point: University
+  current_quest: Digital Logic • Databases • Numerical Analysis
+  language: Persian (فارسی) / English
+```
+
+- 🎮 I'm currently exploring **Digital Logic Circuits**, **Database Systems**, and **Numerical Analysis**
+- 🧱 I build things with **Python**, **C++**, **C#**, and **MySQL**
+- 🌱 Currently crafting projects like a scrolling LED matrix display and a cafe discovery app
+- ⚡ Fun fact: I debug like I mine diamonds — patiently, and usually at 2 AM
+
+<br>
+
+<h2 align="center">🎒 Inventory (Tech Stack)</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,csharp,mysql,git,github&theme=dark" />
+
+</div>
+
+<br>
+
+<h2 align="center">📊 Player Stats</h2>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarvinPY&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=55C500&icon_color=55C500&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarvinPY&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=55C500&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SarvinPY&theme=highcontrast&hide_border=true&background=0D1117&ring=55C500&fire=55C500&currStreakLabel=55C500"/>
+
+</div>
+
+<br>
+
+<h2 align="center">⚔️ Achievements Unlocked</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SarvinPY&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=6"/>
+
+</div>
+
+<br>
+
+<h2 align="center">🐍 Contribution Snake (Farm)</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SarvinPY/SarvinPY/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<br>
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://github.com/SarvinPY">
+  <img src="https://img.shields.io/badge/GitHub-55C500?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+"Every expert was once a beginner who kept mining."
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=55C500&height=100&section=footer"/>
+
+</div>
