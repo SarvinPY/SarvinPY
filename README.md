@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/gQf-Nf3he8cAAAAd/cat-typing.gif" width="270" title="گربه‌ای که با عجله روی کیبورد تایپ می‌کنه">
+<img src="https://media1.tenor.com/m/gQf-Nf3he8cAAAAd/cat-typing.gif" width="270">
 
 </div>
 
