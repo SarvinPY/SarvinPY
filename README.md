@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Minecraft&size=32&duration=3000&pause=800&color=55C500&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+Crafting+Table!;I'm+Sarvin+%F0%9F%8E%AE;Building+Worlds+with+Code" alt="Typing SVG" />
 <img src="https://media1.tenor.com/m/gQf-Nf3he8cAAAAd/cat-typing.gif" width="270">
 
 </div>
@@ -102,6 +103,6 @@ player:
 "Every expert was once a beginner who kept mining."
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=55C500&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=55C500&textBg=false&section=footer&fontAlign=0&fontAlignY=47&descAlign=47&descAlignY=45"/>
 
 </div>
