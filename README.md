@@ -47,6 +47,7 @@ player:
 <br>
 
 <h2 align="center">📊 Player Stats</h2>
+<br>
 
 <div align="center">
 
@@ -84,6 +85,7 @@ player:
 <br>
 
 <h2 align="center">🌐 Connect With Me</h2>
+<br>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
 
@@ -106,6 +108,7 @@ player:
 
 </div>
 
+<br>
 <br>
 
 <div align="center">
