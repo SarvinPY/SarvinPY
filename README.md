@@ -34,7 +34,7 @@ player:
 - 🌱 Currently crafting some projects
 - ⚡ Fun fact: I debug like I mine diamonds — patiently, and usually at 2 AM
 
-
+<br>
 
 <h2 align="center">My Skills</h2>
 
