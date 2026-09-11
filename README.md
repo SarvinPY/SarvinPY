@@ -45,7 +45,7 @@ player:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarvinPY&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=55C500&icon_color=55C500&text_color=c9d1d9"/><img width="139" height="150" alt="grass (1)" src="https://github.com/user-attachments/assets/3dae8ee2-9052-4420-a514-0f4e9b4d7427" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarvinPY&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=55C500&icon_color=55C500&text_color=c9d1d9"/><img width="139" height="150" alt="grass (1)" src="https://github.com/user-attachments/assets/3dae8ee2-9052-4420-a514-0f4e9b4d7427" /> -->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarvinPY&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=55C500&text_color=c9d1d9"/>
 
