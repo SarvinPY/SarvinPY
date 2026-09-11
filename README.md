@@ -70,7 +70,7 @@ player:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SarvinPY&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=6"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=SarvinPY&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=6"/> -->
 
 </div>
 
@@ -80,7 +80,7 @@ player:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SarvinPY/SarvinPY/output/github-contribution-grid-snake-dark.svg" />
+<!-- <img src="https://raw.githubusercontent.com/SarvinPY/SarvinPY/output/github-contribution-grid-snake-dark.svg" /> -->
 
 </div>
 
