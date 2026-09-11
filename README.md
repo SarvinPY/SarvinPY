@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Minecraft&size=32&duration=3000&pause=800&color=55C500&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+Crafting+Table!;I'm+Sarvin+%F0%9F%8E%AE;Building+Worlds+with+Code" alt="Typing SVG" />
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hqNDg1Y2t0azJ2eXI0NXFlZWI4anFvbWRjYmVubnlrbWtuOHB5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="270" title="گربه‌ای با عینک و پاپیون جلوی لپ‌تاپ">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hqNDg1Y2t0azJ2eXI0NXFlZWI4anFvbWRjYmVubnlrbWtuOHB5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11JTxkrmq4bGE0/200.gif" width="270" title="گربه با یه دست روی کیبورد و یکی روی موس">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hqNDg1Y2t0azJ2eXI0NXFlZWI4anFvbWRjYmVubnlrbWtuOHB5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="270" title="گربه‌ای که با عجله روی کیبورد تایپ می‌کنه">
+<img src="https://media1.tenor.com/m/gQf-Nf3he8cAAAAd/cat-typing.gif" width="270" title="گربه‌ای که با عجله روی کیبورد تایپ می‌کنه">
 
 </div>
 
