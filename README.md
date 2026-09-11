@@ -88,21 +88,21 @@ player:
 
 <h2 align="center">🌐 Connect With Me</h2>
 
-<div align="center";">
+<h2 align="center">🌐 Connect With Me</h2>
 
-  <a href="https://t.me/sarvin_hs">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="margin: 0 20px />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+
+  <a href="https://github.com/SarvinPY">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/sarvin-hosseini-b5b002396">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 0 20px />
+  <a href="https://www.linkedin.com/in/YOUR_PROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://github.com/SarvinPY">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="margin: 0 20px />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-</div>
 
 </div>
 
