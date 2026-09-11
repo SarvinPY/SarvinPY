@@ -37,6 +37,8 @@ player:
 <br>
 
 <h2 align="center">My Skills</h2>
+<br>
+
 
 <div align="center">
 
