@@ -88,7 +88,7 @@ player:
 
 <h2 align="center">🌐 Connect With Me</h2>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
 
   <a href="https://t.me/sarvin_hs">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
