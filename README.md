@@ -12,73 +12,7 @@
 
 
 <h2 align="center">⛏️ About Me</h2>
-<svg viewBox="0 0 256 276" xmlns="http://www.w3.org/2000/svg" font-family="monospace" xmlns:c2pa="http://c2pa.org/manifest">
-<rect x="0" y="0" width="256" height="276" fill="#0D1117"/>
-<rect x="40" y="40" width="22" height="22" fill="#8ED14D" stroke="#000000" stroke-width="2"/>
-<rect x="62" y="40" width="22" height="22" fill="#8ED14D" stroke="#000000" stroke-width="2"/>
-<rect x="84" y="40" width="22" height="22" fill="#6BA83A" stroke="#000000" stroke-width="2"/>
-<rect x="106" y="40" width="22" height="22" fill="#8ED14D" stroke="#000000" stroke-width="2"/>
-<rect x="128" y="40" width="22" height="22" fill="#6BA83A" stroke="#000000" stroke-width="2"/>
-<rect x="150" y="40" width="22" height="22" fill="#8ED14D" stroke="#000000" stroke-width="2"/>
-<rect x="172" y="40" width="22" height="22" fill="#8ED14D" stroke="#000000" stroke-width="2"/>
-<rect x="194" y="40" width="22" height="22" fill="#6BA83A" stroke="#000000" stroke-width="2"/>
-<rect x="40" y="62" width="22" height="22" fill="#8ED14D" stroke="#000000" stroke-width="2"/>
-<rect x="62" y="62" width="22" height="22" fill="#6BA83A" stroke="#000000" stroke-width="2"/>
-<rect x="84" y="62" width="22" height="22" fill="#6BA83A" stroke="#000000" stroke-width="2"/>
-<rect x="106" y="62" width="22" height="22" fill="#6BA83A" stroke="#000000" stroke-width="2"/>
-<rect x="128" y="62" width="22" height="22" fill="#8ED14D" stroke="#000000" stroke-width="2"/>
-<rect x="150" y="62" width="22" height="22" fill="#6BA83A" stroke="#000000" stroke-width="2"/>
-<rect x="172" y="62" width="22" height="22" fill="#6BA83A" stroke="#000000" stroke-width="2"/>
-<rect x="194" y="62" width="22" height="22" fill="#8ED14D" stroke="#000000" stroke-width="2"/>
-<rect x="40" y="84" width="22" height="22" fill="#3F6027" stroke="#000000" stroke-width="2"/>
-<rect x="62" y="84" width="22" height="22" fill="#3F6027" stroke="#000000" stroke-width="2"/>
-<rect x="84" y="84" width="22" height="22" fill="#3F6027" stroke="#000000" stroke-width="2"/>
-<rect x="106" y="84" width="22" height="22" fill="#3F6027" stroke="#000000" stroke-width="2"/>
-<rect x="128" y="84" width="22" height="22" fill="#3F6027" stroke="#000000" stroke-width="2"/>
-<rect x="150" y="84" width="22" height="22" fill="#3F6027" stroke="#000000" stroke-width="2"/>
-<rect x="172" y="84" width="22" height="22" fill="#3F6027" stroke="#000000" stroke-width="2"/>
-<rect x="194" y="84" width="22" height="22" fill="#3F6027" stroke="#000000" stroke-width="2"/>
-<rect x="40" y="106" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
-<rect x="62" y="106" width="22" height="22" fill="#6E4423" stroke="#000000" stroke-width="2"/>
-<rect x="84" y="106" width="22" height="22" fill="#8B5A2B" stroke="#000000" stroke-width="2"/>
-<rect x="106" y="106" width="22" height="22" fill="#6E4423" stroke="#000000" stroke-width="2"/>
-<rect x="128" y="106" width="22" height="22" fill="#8B5A2B" stroke="#000000" stroke-width="2"/>
-<rect x="150" y="106" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
-<rect x="172" y="106" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
-<rect x="194" y="106" width="22" height="22" fill="#8B5A2B" stroke="#000000" stroke-width="2"/>
-<rect x="40" y="128" width="22" height="22" fill="#6E4423" stroke="#000000" stroke-width="2"/>
-<rect x="62" y="128" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
-<rect x="84" y="128" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
-<rect x="106" y="128" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
-<rect x="128" y="128" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
-<rect x="150" y="128" width="22" height="22" fill="#8B5A2B" stroke="#000000" stroke-width="2"/>
-<rect x="172" y="128" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
-<rect x="194" y="128" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
-<rect x="40" y="150" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
-<rect x="62" y="150" width="22" height="22" fill="#8B5A2B" stroke="#000000" stroke-width="2"/>
-<rect x="84" y="150" width="22" height="22" fill="#6E4423" stroke="#000000" stroke-width="2"/>
-<rect x="106" y="150" width="22" height="22" fill="#6E4423" stroke="#000000" stroke-width="2"/>
-<rect x="128" y="150" width="22" height="22" fill="#8B5A2B" stroke="#000000" stroke-width="2"/>
-<rect x="150" y="150" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
-<rect x="172" y="150" width="22" height="22" fill="#6E4423" stroke="#000000" stroke-width="2"/>
-<rect x="194" y="150" width="22" height="22" fill="#8B5A2B" stroke="#000000" stroke-width="2"/>
-<rect x="40" y="172" width="22" height="22" fill="#8B5A2B" stroke="#000000" stroke-width="2"/>
-<rect x="62" y="172" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
-<rect x="84" y="172" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
-<rect x="106" y="172" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
-<rect x="128" y="172" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
-<rect x="150" y="172" width="22" height="22" fill="#8B5A2B" stroke="#000000" stroke-width="2"/>
-<rect x="172" y="172" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
-<rect x="194" y="172" width="22" height="22" fill="#6E4423" stroke="#000000" stroke-width="2"/>
-<rect x="40" y="194" width="22" height="22" fill="#8B5A2B" stroke="#000000" stroke-width="2"/>
-<rect x="62" y="194" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
-<rect x="84" y="194" width="22" height="22" fill="#8B5A2B" stroke="#000000" stroke-width="2"/>
-<rect x="106" y="194" width="22" height="22" fill="#6E4423" stroke="#000000" stroke-width="2"/>
-<rect x="128" y="194" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
-<rect x="150" y="194" width="22" height="22" fill="#9C6B3E" stroke="#000000" stroke-width="2"/>
-<rect x="172" y="194" width="22" height="22" fill="#6E4423" stroke="#000000" stroke-width="2"/>
-<rect x="194" y="194" width="22" height="22" fill="#6E4423" stroke="#000000" stroke-width="2"/>
-</svg>
+
 ```yaml
 player:
   name: Sarvin (SarvinPY)
