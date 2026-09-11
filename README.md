@@ -90,7 +90,7 @@ player:
 <div align="center">
 
 <a href="https://github.com/SarvinPY">
-  <img src="https://img.shields.io/badge/GitHub-55C500?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 </div>
@@ -103,6 +103,6 @@ player:
 "Every expert was once a beginner who kept mining."
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=55C500&textBg=false&section=footer&fontAlign=0&fontAlignY=47&descAlign=47&descAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=55C500&height=100&section=footer"/>
 
 </div>
