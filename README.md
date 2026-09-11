@@ -8,8 +8,9 @@
 </div>
 
 <br>
-<div align="center">
-<img align="center" width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/5a6c79a4-c9f6-49f5-8e8a-76b69a2f5050" />
+<div align="center" gap: 40px>
+<img align="center" width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5a6c79a4-c9f6-49f5-8e8a-76b69a2f5050" />
+<img align="center" width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5a6c79a4-c9f6-49f5-8e8a-76b69a2f5050" />
 </div>
 
 
@@ -82,17 +83,17 @@ player:
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
 
-  <a href="https://t.me/sarvin_hs">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+<a href="https://t.me/sarvin_hs">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 
-  <a href="https://linkedin.com/in/sarvin-hosseini-b5b002396">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://linkedin.com/in/sarvin-hosseini-b5b002396">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-  <a href="https://github.com/SarvinPY">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://github.com/SarvinPY">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
