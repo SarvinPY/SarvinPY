@@ -2,14 +2,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Minecraft&size=32&duration=3000&pause=800&color=55C500&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+Crafting+Table!;I'm+Sarvin+%F0%9F%8E%AE;Building+Worlds+with+Code" alt="Typing SVG" />
 <br>
-<img src="https://media1.tenor.com/m/gQf-Nf3he8cAAAAd/cat-typing.gif" width="270">
+<img src="https://media1.tenor.com/m/gQf-Nf3he8cAAAAd/cat-typing.gif" width="300">
 
 
 </div>
 
 <br>
 
-<img width="512" height="472" alt="image" src="https://github.com/user-attachments/assets/5a6c79a4-c9f6-49f5-8e8a-76b69a2f5050" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/5a6c79a4-c9f6-49f5-8e8a-76b69a2f5050" />
 
 
 
