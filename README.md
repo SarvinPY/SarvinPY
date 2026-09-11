@@ -88,8 +88,6 @@ player:
 
 <h2 align="center">🌐 Connect With Me</h2>
 
-<h2 align="center">🌐 Connect With Me</h2>
-
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
 
   <a href="https://github.com/SarvinPY">
