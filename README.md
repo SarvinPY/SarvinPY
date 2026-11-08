@@ -95,7 +95,7 @@ player:
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="starbutterfly1182@gmail.com">
+<a href="sarvinhosseini04@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
